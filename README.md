@@ -21,12 +21,12 @@ A Real-time car parking system model using Deep learning applied on CCTV camera 
 
 2. **Run the preprocessing.py to produce train and test splits of data**:
    ```
-   python3 preprocessing.py
+   python preprocessing.py
    ```
 
 3. **Train the model**:
    ```
-   python3 train.py
+   python train.py
    ```
 
 
